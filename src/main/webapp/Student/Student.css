@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#student_b {
+	background: url("./img/search.png") no-repeat center left 150px;
+	background-size: 20px;
+	display: inline;
+}
+
+.form-control {
+	display: inline;
+}
+
+.student_c{
+	display: inline;
+}
+
+li,ul {
+	list-style-type: none;
+}
+
+table {
+	width: 80%;
+}
